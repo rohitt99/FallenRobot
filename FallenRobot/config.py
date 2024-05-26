@@ -5,13 +5,13 @@ class Config(object):
     API_ID = 25830228
     API_HASH = "a23a5133bddbdab87df3df06ccf63a89"
 
-    CASH_API_KEY = "67AB03FW2SRJEBED"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
+    CASH_API_KEY = "ODEUSYY8R0JUK2DU"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
     DATABASE_URL = ""  # A sql database url from elephantsql.com
 
     EVENT_LOGS = (-1002241127611)  # Event logs channel to note down important bot level events
 
-    MONGO_DB_URI = "mongodb+srv://Venom:LostVenom@venom.bopprqu.mongodb.net/?retryWrites=true&w=majority&appName=Venom"  # Get ths value from cloud.mongodb.com
+    MONGO_DB_URI = "mongodb+srv://rohit6205881743:rohit6205881743@cluster0.soqtewz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"  # Get ths value from cloud.mongodb.com
 
     # Telegraph link of the image which will be shown at start command.
     START_IMG = "https://graph.org/file/8c68edda7a29ef01a92b8.jpg"
